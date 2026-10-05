@@ -76,6 +76,9 @@ main {
   text-align: center;
   background: #eef5f7 url("fundo.png") center / cover no-repeat;
 }
+.main2 {
+  background: #eef5f7 url("fundo.png") center top / 100% auto repeat-y;
+}
 h1 {
   font:
     600 48px Poppins,
@@ -90,6 +93,7 @@ h2 {
   color: #1c3550;
   margin-bottom: 60px;
 }
+.main2 h1 {margin-bottom: 60px;}
 
 section {
   display: grid;
