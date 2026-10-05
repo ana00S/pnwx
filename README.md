@@ -53,9 +53,8 @@ Títulos e subtítulos padronizados e footer reutilizado em diferentes páginas.
 - Página de equipamentos(Equipaments)
 
 ## Links
-
 - https://www.figma.com/design/q6rHj5Khr9myhA8daqyLMD/Untitled?node-id=0-1&t=BHvfgN5tMx5z7DcW-1
-- 
+- https://ana00s.github.io/pnwx/
 
 ## Autores
 Ana Clara e Lucas
